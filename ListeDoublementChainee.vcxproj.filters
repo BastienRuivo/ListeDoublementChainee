@@ -13,5 +13,30 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\src">
+      <UniqueIdentifier>{96417bd0-03ab-476f-9bee-ae58ffdef088}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\header">
+      <UniqueIdentifier>{cef2267e-fcd0-444a-aa62-b4f2df1afd51}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="header\ElementL.h">
+      <Filter>Source Files\header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\Liste.h">
+      <Filter>Source Files\header</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\ElementL.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Main.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Liste.cpp">
+      <Filter>Source Files\src</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

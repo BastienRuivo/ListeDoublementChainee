@@ -1,0 +1,7 @@
+﻿  Liste.cpp
+C:\Users\Basti\source\repos\ListeDoublementChainee\ListeDoublementChainee\src\Liste.cpp(151,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Basti\source\repos\ListeDoublementChainee\ListeDoublementChainee\src\Liste.cpp(173,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Basti\source\repos\ListeDoublementChainee\ListeDoublementChainee\src\Liste.cpp(208,15): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Basti\source\repos\ListeDoublementChainee\ListeDoublementChainee\src\Liste.cpp(236,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Basti\source\repos\ListeDoublementChainee\ListeDoublementChainee\src\Liste.cpp(228): warning C4172: returning address of local variable or temporary: R
+  ListeDoublementChainee.vcxproj -> C:\Users\Basti\source\repos\ListeDoublementChainee\x64\Debug\ListeDoublementChainee.exe
